@@ -1,0 +1,16 @@
+[
+  {
+    "menuGrouping": "FOOD",
+    "menuHeading": "Starters",
+    "name": "Bruschetta",
+    "description": "Grilled bread with tomatoes",
+    "price": "$5"
+  },
+  {
+    "menuGrouping": "DRINK",
+    "menuHeading": "Soft Drinks",
+    "name": "Coke",
+    "description": "Chilled soda",
+    "price": "$2"
+  }
+]
